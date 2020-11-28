@@ -1,10 +1,44 @@
 # CRMDjango
 A Django implemented CRM project.
 
-Setup
-1.Create a folder and put all the files inside it.
-2.Create a virtual environtment - virtualenv env
-3.Activate VirtualENV - ubuntu : source env/bin/activate || windows : . .\env\Scripts\activate
-4.Run requirements.txt - pip install -r requirements.txt
-5.Run the Application - python manage.py runserver
-6.Migrate
+# Development Setup
+
+## Windows 64 bit
+
+1. Install these tools
+    * [Python v3.6.2 64 bit](https://www.python.org/downloads/)
+    * [Git](https://git-scm.com/download/win)
+
+
+1. Upgrade pip
+
+    ```bash
+    python -m pip install --upgrade pip
+    ```
+
+1. Setup virtualenv
+
+    ```bash
+    python -m venv venv
+    venv\ Scripts\ activate.bat
+    ```
+
+
+1. Download backendApp repository
+
+    ```bash
+    https://github.com/Gopinathpanda/FullThrotle_Assignment.git
+    ```
+
+1. Install project dependencies
+
+    ```bash
+    Go to requirements.txt folder and run command
+    pip install -r requirements.txt
+    ```
+1. To store Data in DataBase
+
+     ```bash
+    python manage.py runserver
+    ```
+
