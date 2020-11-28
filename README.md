@@ -27,7 +27,7 @@ A Django implemented CRM project.
 1. Download backendApp repository
 
     ```bash
-    https://github.com/Gopinathpanda/FullThrotle_Assignment.git
+    https://github.com/Gopinathpanda/CRMDjango.git
     ```
 
 1. Install project dependencies
