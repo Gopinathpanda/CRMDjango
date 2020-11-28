@@ -2,9 +2,9 @@
 A Django implemented CRM project.
 
 Setup
-Create a folder and put all the files inside it.
-Create a virtual environtment - virtualenv env
-Activate VirtualENV - ubuntu : source env/bin/activate || windows : . .\env\Scripts\activate
-Run requirements.txt - pip install -r requirements.txt
-Run the Application - python manage.py runserver
-Migrate
+1.Create a folder and put all the files inside it.
+2.Create a virtual environtment - virtualenv env
+3.Activate VirtualENV - ubuntu : source env/bin/activate || windows : . .\env\Scripts\activate
+4.Run requirements.txt - pip install -r requirements.txt
+5.Run the Application - python manage.py runserver
+6.Migrate
