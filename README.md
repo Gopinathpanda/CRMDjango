@@ -1,6 +1,11 @@
 # CRMDjango
 A Django implemented CRM project.
 
+# Go to think link
+http://gopinathpanda1995.pythonanywhere.com/
+
+# Sample Screenshot
+   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 # Development Setup
 
 ## Windows 64 bit
