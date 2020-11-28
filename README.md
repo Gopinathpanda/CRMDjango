@@ -5,7 +5,7 @@ A Django implemented CRM project.
 http://gopinathpanda1995.pythonanywhere.com/
 
 # Sample Screenshot
-   ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+   ![alt text](https://github.com/Gopinathpanda/CRMDjango/DjangoCrm.png?raw=true)
 # Development Setup
 
 ## Windows 64 bit
